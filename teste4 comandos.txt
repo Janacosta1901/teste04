@@ -1,0 +1,27 @@
+Maria Janaína Gomes da Costa
+117884
+
+ git clone https://github.com/Janacosta1901/teste04.git
+    2  git status
+    3  history > cmdsTarefa2.txt
+git commit -m "commit inicial"
+git push
+Comandos:
+Comandos utilizados:
+- cd pasta/Teste04
+- git status
+- git add index.html
+- git commit -m "quarta tarefa"
+- git push 
+
+comando:
+Comandos utilizados:
+- cd Teste04
+- git status
+- git add index.html script.js
+- git commit -m "5ª tarefa cumprida"
+- git push 
+
+
+
+
